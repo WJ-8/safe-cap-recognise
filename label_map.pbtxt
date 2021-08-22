@@ -1,0 +1,8 @@
+item {
+  id: 1 
+  name: 'cap'
+}
+item {
+  id: 2
+  name: 'non'
+}
